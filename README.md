@@ -47,7 +47,6 @@ Users should be able to:
 - Flexbox
 - Electron
 - Vanilla JavaScript
-- NodeJS
 
 ## Author
 
